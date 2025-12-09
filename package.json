@@ -1,0 +1,15 @@
+{
+  "name": "my-koyeb-app",
+  "version": "1.0.0",
+  "description": "Android Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http": "0.0.1-security"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
